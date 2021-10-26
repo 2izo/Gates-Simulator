@@ -1,0 +1,13 @@
+and s1 s2 s3
+or s3 s4 s5
+and s2 s4 s6
+nand s6 s5 s7
+set s2 0
+set s1 1
+set s4 0
+sim
+out s1
+out s3
+out s5
+out s6
+out s7

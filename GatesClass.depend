@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1569925065 source:d:\c++\gatesclass\main.cpp
+	<iostream>
+	<stdio.h>
+	"simulator.h"
+
+1569923953 source:d:\c++\gatesclass\src\and.cpp
+	"and.h"
+
+1569923934 d:\c++\gatesclass\include\and.h
+	<gate.h>
+
+1569924153 d:\c++\gatesclass\include\gate.h
+	"struct.h"
+
+1569924139 d:\c++\gatesclass\include\struct.h
+	<string>
+
+1569914635 source:d:\c++\gatesclass\src\gate.cpp
+	"gate.h"
+
+1569924028 source:d:\c++\gatesclass\src\or.cpp
+	"OR.h"
+
+1569924039 d:\c++\gatesclass\include\or.h
+	<gate.h>
+
+1569924329 source:d:\c++\gatesclass\src\nor.cpp
+	"NOR.h"
+
+1569924275 d:\c++\gatesclass\include\nor.h
+	<gate.h>
+
+1569924542 source:d:\c++\gatesclass\src\xor.cpp
+	"XOR.h"
+
+1569924506 d:\c++\gatesclass\include\xor.h
+	<gate.h>
+
+1569924624 source:d:\c++\gatesclass\src\xnor.cpp
+	"XNOR.h"
+
+1569924615 d:\c++\gatesclass\include\xnor.h
+	<gate.h>
+
+1569924783 source:d:\c++\gatesclass\src\nand.cpp
+	"NAND.h"
+
+1569924772 d:\c++\gatesclass\include\nand.h
+	<gate.h>
+
+1569925202 d:\c++\gatesclass\include\simulator.h
+	<fstream>
+	"and.h"
+	"OR.h"
+	"XOR.h"
+	"XNOR.h"
+	"NOR.h"
+	"NAND.h"
+	<sstream>
+	<stdio.h>
+	<iostream>
+
+1569925039 source:d:\c++\gatesclass\src\simulator.cpp
+	"simulator.h"
+
